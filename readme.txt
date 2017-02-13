@@ -15,3 +15,8 @@ Included plugins:
 Updater (Installer only):
 
 * WinGup v4.1
+
+
+first use notepad++ learn git
+
+git is a version control system。
