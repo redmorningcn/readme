@@ -20,3 +20,5 @@ Updater (Installer only):
 first use notepad++ learn git
 
 git is a version control system。
+
+add 20170214
