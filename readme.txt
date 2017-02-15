@@ -1,4 +1,4 @@
-Notepad++ 7.3.1 bug-fix & enhancement:
+﻿Notepad++ 7.3.1 bug-fix & enhancement:
 
 1.  Fix geneation of MD5 on Unicode bug.
 2.  Enhancement : make "Word characters list" customizable.
@@ -26,3 +26,5 @@ add 20170214
 read me change two.
 
 readme change three.
+
+create new branch！
